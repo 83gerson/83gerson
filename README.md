@@ -1,16 +1,74 @@
-## ¡Hola! Soy Gerson Cordero Calvo 👋
+# 👋 Hi, I'm Gerson Cordero Calvo
 
-<!--
-**83gerson/83gerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor’s student in Business Informatics at the University of Costa Rica  
+💻 Passionate about building modern and scalable web applications  
+🌐 [LinkedIn](https://www.linkedin.com/in/gerson-calvo-b0a3b630b) ⋄ [GitHub](https://github.com/83gerson)  
+📧 gersoncalvo83@gmail.com ⋄ 📱 +506 8629-9378  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I’m a Software Developer with academic and practical experience in full-stack development. I work with both frontend and backend technologies, including Angular, React, .NET, and Node.js. I also have experience with relational and non-relational databases such as SQL Server and MongoDB. I am proactive, organized, and committed to continuous improvement, with strong teamwork and leadership skills. I'm also trained in agile methodologies like Scrum and project management practices.
+
+---
+
+## 🚀 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Business Informatics**  
+*University of Costa Rica*  
+📅 March 2019 – Present
+
+---
+
+## 📜 Certifications
+
+- **Scrum Fundamentals Certified (SFC)** – *SCRUMstudy*  
+  *October 2023 – April 2024*  
+  _Introduction to the Scrum framework and its role in successful project delivery._
+
+---
+
+## 🧩 Featured Projects
+
+### 🔧 Fault Reporting System  
+Developed a system for managing internal issue reports at the Judicial Investigation Department (OIJ).  
+**Tech Stack:** Angular, .NET Core, SQL Server  
+**Methodology:** RUP
+
+### 🌐 Social Networking App  
+Created a basic social media web application with user interactions.  
+**Tech Stack:** JavaScript (Frontend), Node.js + Express (Backend), MongoDB
+
+### 🏨 Hotel Management System  
+Web system for managing hotel reservations, clients, and rooms.  
+**Tech Stack:** Angular, .NET Core, SQL Server  
+**Methodology:** Scrum
+
+---
+
+## 📊 GitHub Stats
+
+![Gerson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=83gerson&show_icons=true&theme=radical)
+
+---
+
+## 🌍 Languages
+
+- **Spanish:** Native  
+- **English:** Professional Working Proficiency
