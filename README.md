@@ -9,7 +9,10 @@
 
 ## 🧑‍💻 About Me
 
-I’m a Software Developer with academic and practical experience in full-stack development. I work with both frontend and backend technologies, including Angular, React, .NET, and Node.js. I also have experience with relational and non-relational databases such as SQL Server and MongoDB. I am proactive, organized, and committed to continuous improvement, with strong teamwork and leadership skills. I'm also trained in agile methodologies like Scrum and project management practices.
+Software Developer with academic experience in the creation of modern and scalable web solutions. I work with
+Frontend and Backend technologies such as Angular, React, .NET, and Node.js, as well as relational and non-relational
+databases. I am characterized by my proactive approach, leadership skills, teamwork abilities, and commitment to
+continuous improvement. I also have training in agile methodologies and technology project management.
 
 ---
 
