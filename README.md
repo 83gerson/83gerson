@@ -77,6 +77,11 @@ Web system for managing hotel reservations, clients, and rooms.
 **Tech Stack:** Angular, .NET Core, SQL Server  
 **Methodology:** Scrum
 
+### 💰 Funding Opportunity Management System  
+Developed a system to centralize and systematize processes across various modules, enhancing efficiency and facilitating decision-making.  
+**Tech Stack:** Blazor, .NET 8, SQL Server, Tailwind CSS, Fluent UI  
+**Methodology:** Agile
+
 ---
 
 ## 📊 GitHub Stats
