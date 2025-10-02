@@ -9,10 +9,10 @@
 
 ## 🧑‍💻 About Me
 
-Software Developer with academic experience in the creation of modern and scalable web solutions. I work with
-Frontend and Backend technologies such as Angular, React, .NET, and Node.js, as well as relational and non-relational
-databases. I am characterized by my proactive approach, leadership skills, teamwork abilities, and commitment to
-continuous improvement. I also have training in agile methodologies and technology project management.
+Software developer with experience in creating modern and scalable web solutions, working with both Frontend and
+Backend technologies, as well as relational and non-relational databases. I am known for my proactive approach, lead-
+ership skills, and ability to work in a team, with training in agile methodologies and technology project management,
+committed to continuous improvement.
 
 ---
 
