@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gerson Cordero Calvo
 
-🎓 Bachelor’s student in Business Informatics at the University of Costa Rica  
+🎓 Bachelor’s Degree in Business Informatics | Licentiate student in Computer Engineering  
 💻 Passionate about building modern and scalable web applications  
 🌐 [LinkedIn](https://www.linkedin.com/in/gerson-calvo-b0a3b630b) ⋄ [GitHub](https://github.com/83gerson)  
 📧 gersoncalvo83@gmail.com ⋄ 📱 +506 8629-9378  
@@ -48,8 +48,12 @@ committed to continuous improvement.
 ## 🎓 Education
 
 **Bachelor’s Degree in Business Informatics**  
-*University of Costa Rica*  
-📅 March 2019 – Present
+*University of Costa Rica (UCR)*  
+📅 March 2019 – February 2026
+
+**Licentiate Degree in Computer Engineering and Web Application Development** *(In Progress)*  
+*Distance State University (UNED)*  
+📅 February 2026 – Present
 
 ---
 
